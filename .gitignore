@@ -1,0 +1,20 @@
+# Ambiente virtual do Python
+.venv/
+
+# Cache e arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Checkpoints criados pelo Jupyter
+.ipynb_checkpoints/
+
+# Dataset de imagens
+dogs_vs_cats/
+
+# Modelos treinados
+modelos/*.keras
+modelos/*.h5
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
