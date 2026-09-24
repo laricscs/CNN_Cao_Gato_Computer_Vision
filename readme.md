@@ -1,6 +1,6 @@
 # 🐶🐱 CNN Cão e Gato — Computer Vision
 
-![Exemplos do dataset](resultados/graficos/figura_9_imagens.png)
+![Exemplos do dataset](resultados/matrizes_confusao/CAT_DOG.png)
 
 Projeto de **Visão Computacional** desenvolvido em Python utilizando uma **Rede Neural Convolucional (CNN)** para classificação de imagens entre as classes **cão** e **gato**.
 
@@ -135,7 +135,7 @@ O treinamento foi realizado em **CPU**.
 
 ### Evolução da Acurácia e do Loss
 
-![Gráfico de evolução do treinamento](resultados/graficos/evolucao_treinamento.png)
+![Gráfico de evolução do treinamento](resultados/matrizes_confusao/evolucao_acuracia_loss.png)
 
 ### Matriz de Confusão
 
@@ -143,37 +143,9 @@ O treinamento foi realizado em **CPU**.
 
 ### Métricas de Classificação
 
-![Métricas de Classificação](resultados/graficos/metricas_cnn_animado_final.gif)
+![Métricas de Classificação](resultados/matrizes_confusao/metricas_cnn_animado_final.gif)
 
 > Os três gráficos acima apresentam a evolução do treinamento, a matriz de confusão e as principais métricas utilizadas na avaliação do modelo.
-
-## 📊 Gráficos
-
-Os resultados visuais do projeto incluem:
-
-### 1. Evolução do treinamento
-
-Gráfico contendo a evolução da **acurácia** e do **loss** durante as épocas de treinamento.
-
-```text
-[ INSERIR GRÁFICO DE ACURÁCIA E LOSS AQUI ]
-```
-
-### 2. Matriz de Confusão
-
-Visualização dos acertos e erros do modelo para as classes Cat e Dog.
-
-```text
-[ INSERIR MATRIZ DE CONFUSÃO AQUI ]
-```
-
-### 3. Métricas de Classificação
-
-Visualização das métricas de **Precision, Recall e F1-score** para cada classe.
-
-```text
-[ INSERIR GRÁFICO DE MÉTRICAS AQUI ]
-```
 
 ## 📈 Resultados
 
